@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "601867756748",
+    "firebase_url": "https://fir-jan2024-c76aa-default-rtdb.firebaseio.com",
+    "project_id": "fir-jan2024-c76aa",
+    "storage_bucket": "fir-jan2024-c76aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601867756748:android:afaa754ae2663003074e69",
+        "android_client_info": {
+          "package_name": "com.dennis.firebasejan2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-lUWsmk_DnFAQPHo12A3XsXi2_MIkmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601867756748:android:a0001005a8ff2dd2074e69",
+        "android_client_info": {
+          "package_name": "com.dennis.kiwamotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-lUWsmk_DnFAQPHo12A3XsXi2_MIkmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
